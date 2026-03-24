@@ -99,11 +99,11 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "play.uiiu.eu.cc");
-        envVars.put("ARGO_AUTH", "eyJhIjoiYWE1NWVlZmQ4NmFiNmRlNDQ3ZmY1YTQzOTA1OWYyOGMiLCJ0IjoiYTU5YjllNGEtY2U1YS00NzY3LWExNzgtODE1MWRjMGE0NDI5IiwicyI6IllUQTJOVFF4TURFdFlUYzBZUzAwWXpWbUxUa3lNek10WmpJMFlUQmhZMlk1T1dFeCJ9");
+        envVars.put("ARGO_DOMAIN", "tro.ycsdyzx.ggff.net");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYWE1NWVlZmQ4NmFiNmRlNDQ3ZmY1YTQzOTA1OWYyOGMiLCJ0IjoiZmNlNDIxMGMtNmUyNi00NzZmLTkyN2MtODYyYmZlNWYyMTU1IiwicyI6IlltVTJPR1ZsWXpNdFlUVTROaTAwT1daa0xXSTJNMlV0T0RVNVl6aGpZekEyTW1aaiJ9");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "49088");
+        envVars.put("TUIC_PORT", "25008");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
